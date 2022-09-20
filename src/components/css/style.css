@@ -1,0 +1,27 @@
+
+
+.main {
+    background-color: #256D85;
+    min-height: 350px;
+    max-width: 290px;
+    text-align: center;
+    margin: 10% 10% 10% 39%;
+    padding-top: 15px;
+    color: #8FE3CF;
+    font-family: 'Signika Negative', sans-serif;
+    border: 3px solid #293462;
+}
+
+.search_bar {
+    padding: 2% 9% ;
+    background-color: #8FE3CF;
+    color: #256D85;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 22px;
+    border: 1px solid white;
+}
+
+.logo {
+    width: 21%;
+    margin-bottom: 10px;
+}
